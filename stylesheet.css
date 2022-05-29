@@ -1,0 +1,21 @@
+html {
+	background: url(taust.jpg);
+	background-size: cover;
+}
+
+body {
+  color: white;
+}
+
+table {
+	border-spacing: 10px;
+}
+	
+.arial {
+  font-family: Arial, serif;
+}
+
+h5 {
+	color: #413F52;
+}
+
